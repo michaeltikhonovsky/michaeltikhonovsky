@@ -1,4 +1,5 @@
-### Hi there 👋
+### About me
+I am a computer science student with interests in applied mathematics and quantitative analysis. I am always seeking new challenges and opportunities to apply my skills and knowledge to real-world problems
 
 <!--
 **michaeltikhonovsky/michaeltikhonovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

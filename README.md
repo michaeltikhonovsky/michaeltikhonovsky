@@ -3,8 +3,6 @@
 
 <h1 align = "center" >Michael Tikhonovsky</h1>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaeltikhonovsky&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltikhonovsky&layout=compact&theme=tokyonight)
 
 

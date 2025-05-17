@@ -7,13 +7,11 @@
   Full-stack web developer · Backend engineering
 </p>
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltikhonovsky&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 <h1 align="center">🧰 Tech I Use</h1>
 
@@ -30,12 +28,10 @@
 
 ---
 
-<!-- Optional clean contact / footer -->
-<!--
 <p align="center">
-  <a href="https://linkedin.com/in/michaeltikhonovsky">LinkedIn</a> • <a href="mailto:your@email.com">Email</a>
+  <a href="https://linkedin.com/in/michael-tikhonovsky">LinkedIn</a> • <a href="mailto:michaeltikhonovsky@gmail.com">Email</a>
 </p>
--->
+
 
 
 

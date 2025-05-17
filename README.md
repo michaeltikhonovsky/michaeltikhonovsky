@@ -5,12 +5,9 @@
 </p>
 
 <div align="center">
-
 **Most recent sites I made:**
-
-- [promptwtf](https://promptwtf.app)  
-- [pillzumi](https://pillzumi.com)
-
+[promptwtf](https://promptwtf.app)  
+[pillzumi](https://pillzumi.com)
 </div>
 
 

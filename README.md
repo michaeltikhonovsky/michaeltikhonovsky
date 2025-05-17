@@ -4,18 +4,13 @@
   Full-stack web developer · Backend engineering
 </p>
 
-<div align="center">
+<h3 align="center">Most recent sites I made</h3>
 
-**Most recent sites I made:**
+<p align="center">
+  <a href="https://promptwtf.app">promptwtf</a> • 
+  <a href="https://pillzumi.com">pillzumi</a>
+</p>
 
-<div align="center"> 
-[promptwtf](https://promptwtf.app)  
-</div>
-<div align="center"> 
-[pillzumi](https://pillzumi.com)
-</div>
-
-</div>
 
 
 

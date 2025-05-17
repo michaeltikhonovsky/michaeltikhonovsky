@@ -15,7 +15,7 @@
 
 ---
 
-### 🧰 Tech I Use
+<h1>### 🧰 Tech I Use</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>

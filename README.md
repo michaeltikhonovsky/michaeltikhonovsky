@@ -4,6 +4,16 @@
   Full-stack web developer · Backend engineering
 </p>
 
+<div align="center">
+
+**Most recent sites I made:**
+
+- [promptwtf](https://promptwtf.app)  
+- [pillzumi](https://pillzumi.com)
+
+</div>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltikhonovsky&layout=compact&theme=tokyonight" />
 </p>

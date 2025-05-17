@@ -3,7 +3,10 @@
 
 <h1 align = "center" >Michael Tikhonovsky</h1>
 
-<p align = "center">I am a computer science student with interests in applied mathematics and quantitative analysis. I am always seeking new challenges and opportunities to apply my skills and knowledge to real-world problems
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
 
 <!--
 **michaeltikhonovsky/michaeltikhonovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

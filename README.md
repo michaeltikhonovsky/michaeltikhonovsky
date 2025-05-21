@@ -7,7 +7,7 @@
 <h3 align="center">Most recent sites I made</h3>
 
 <p align="center">
-  <a href="https://promptwtf.app">promptwtf</a> • 
+  <a href="https://genprompt.app">genprompt</a> • 
   <a href="https://pillzumi.com">pillzumi</a>
 </p>
 

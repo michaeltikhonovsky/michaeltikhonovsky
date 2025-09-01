@@ -1,25 +1,13 @@
-<h1 align="center">Michael Tikhonovsky</h1>
+# Michael Tikhonovsky
 
-<p align="center">
-  Full-stack web developer · Backend engineering
-</p>
+Full-stack developer & Backend Engineer
 
-<h3 align="center">Most recent sites I made</h3>
+## Recent Projects
 
-<p align="center">
-  <a href="https://newsai.wtf">newsai</a> •
-  <a href="https://genprompt.app">genprompt</a> • 
-  <a href="https://pillzumi.com">pillzumi</a>
-</p>
+**[NewsAI](https://newsai.wtf)** - AI-powered video generation SaaS platform that creates realistic news broadcasts from text scripts using voice synthesis and lip-sync technology.
 
+**[GenPrompt](https://genprompt.app)** - Reverse prompt search platform that analyzes AI-generated images to discover the exact prompts and parameters used in their creation.
 
----
+**[Pillzumi](https://pillzumi.com)** - Web3 platform combining cryptocurrency with AI-driven storytelling, featuring autonomous social media agents and community engagement tools.
 
-<p align="center">
-  <a href="https://linkedin.com/in/michael-tikhonovsky">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:michaeltikhonovsky@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+**[Spectromize](https://spectromize.com)** - Dynamic color palette generator with real-time customization and one-click export functionality.
